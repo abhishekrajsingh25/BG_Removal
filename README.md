@@ -103,7 +103,6 @@ Clerk provides React components like `<SignIn />`, `<SignUp />`, and `<UserButto
 
 - The frontend can be deployed using Vercel.
 - The backend can be deployed using Vercel.
-- The admin can be deployed using Vercel.
 - MongoDB can be hosted on MongoDB Atlas.
 
 ## Contributing
